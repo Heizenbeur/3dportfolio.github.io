@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "Rat behavior",
+      title: "Rodent Behavior (Rats)",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Developer (Python, Javascript)",
+      title: "Developer (Python, Java)",
       icon: creator,
     },
   ];
