@@ -1,11 +1,11 @@
 Model Information:
-* title:	Alien neuron network core
-* source:	https://sketchfab.com/3d-models/alien-neuron-network-core-9b1af8411cf94819af3c60fef1ab6c36
-* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+* title:	Neuron
+* source:	https://sketchfab.com/3d-models/neuron-ba9d5124d7bf422a93dc5ab3fd932a13
+* author:	Jackieson888 (https://sketchfab.com/Jackieson888)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Alien neuron network core" (https://sketchfab.com/3d-models/alien-neuron-network-core-9b1af8411cf94819af3c60fef1ab6c36) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Neuron" (https://sketchfab.com/3d-models/neuron-ba9d5124d7bf422a93dc5ab3fd932a13) by Jackieson888 (https://sketchfab.com/Jackieson888) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
