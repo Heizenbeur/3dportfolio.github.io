@@ -47,11 +47,20 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am a highly skilled neuroscientist with expertise in a wide range of techniques. 
+        I have experience performing intricate rat brain surgeries and using chemogenetics and 
+        optogenetics to manipulate brain activity in vivo. Additionally, I am proficient in using 
+        fiber photometry to record signals in freely behaving rats and have developed highly complex 
+        behavioral paradigms to study decision-making in rats. My research has primarily focused on 
+        the influence of value and cues on action selection when faced with a choice situation.
+
+        As an excellent histologist, microscopist, and brain anatomist, I have a keen eye for detail 
+        and a deep understanding of the complex structures within the brain. My passion for 
+        neuroscience has led me to pursue a career in academia at the CNRS in France, where I 
+        hope to make significant contributions to the field.
+
+        Overall, I am confident that my diverse skill set and deep interest in neuroscience will 
+        enable me to make important contributions to our understanding of the brain and its complexities.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
