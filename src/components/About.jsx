@@ -53,14 +53,6 @@ const About = () => {
         fiber photometry to record signals in freely behaving rats and have developed highly complex 
         behavioral paradigms to study decision-making in rats. My research has primarily focused on 
         the influence of value and cues on action selection when faced with a choice situation.
-
-        As an excellent histologist, microscopist, and brain anatomist, I have a keen eye for detail 
-        and a deep understanding of the complex structures within the brain. My passion for 
-        neuroscience has led me to pursue a career in academia at the CNRS in France, where I 
-        hope to make significant contributions to the field.
-
-        Overall, I am confident that my diverse skill set and deep interest in neuroscience will 
-        enable me to make important contributions to our understanding of the brain and its complexities.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
