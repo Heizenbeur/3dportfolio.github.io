@@ -4,7 +4,7 @@ import {
     discord,
     excel,
     fiji,
-    github,
+    githublogo,
     googleresearch,
     ppt,
     prism,
