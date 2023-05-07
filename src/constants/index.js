@@ -118,7 +118,7 @@ import {
     {
       title: "BSc in Biology",
       company_name: "Claude Bernard University (France)",
-      icon: starbucks,
+      icon: shopify,
       iconBg: "#383E56",
       date: "Sep 2011 - Jul 2014",
       points: [
@@ -173,7 +173,7 @@ import {
         "Supervision: Dr Shauna L. Parkes.",
         "Team: Decision and Adaptation, INCIA, UMR5287.",
         "Team leader: Dr Mathieu Wolff.",
-        "Professional service: Student represenative to unit and department councils, teaching and mentoring."
+        "Professional service: Student representative to unit and department councils, teaching and mentoring."
       ],
     },
   ];
