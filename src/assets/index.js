@@ -37,6 +37,8 @@ import slack from "./tech/slack.png";
 import visualcodestudio from "./tech/visualcodestudio.png";
 import word from "./tech/word.png";
 import zotero from "./tech/zotero.png";
+import office from "./tech/office.png";
+import mbf from "./tech/mbf.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
