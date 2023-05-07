@@ -1,4 +1,20 @@
 import {
+    anaconda,
+    cellprofiler,
+    discord,
+    excel,
+    fiji,
+    github,
+    googleresearch,
+    ppt,
+    prism,
+    python,
+    quartzy,
+    rstats,
+    slack,
+    visualcodestudio,
+    word,
+    zotero,
     mobile,
     backend,
     creator,
@@ -60,6 +76,10 @@ import {
   ];
   
   const technologies = [
+     {
+      name: "Word",
+      icon: word,
+    },
     {
       name: "HTML 5",
       icon: html,
