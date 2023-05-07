@@ -98,6 +98,10 @@ import {
         name: "mbf",
         icon: mbf,
     },
+    {
+        name: "prism",
+        icon: prism,
+    },
   ];
   
   const experiences = [
