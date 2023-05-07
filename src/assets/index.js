@@ -21,6 +21,23 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import anaconda from "./tech/anaconda.png";
+import cellprofiler from "./tech/cellprofiler.png";
+import discord from "./tech/discord.png";
+import excel from "./tech/excel.png";
+import fiji from "./tech/fiji.png";
+import github from "./tech/github.png";
+import googleresearch from "./tech/googleresearch.png";
+import ppt from "./tech/ppt.png";
+import prism from "./tech/prism.png";
+import python from "./tech/python.png";
+import quartzy from "./tech/quartzy.png";
+import rstats from "./tech/rstats.png";
+import slack from "./tech/slack.png";
+import visualcodestudio from "./tech/visualcodestudio.png";
+import word from "./tech/word.png";
+import zotero from "./tech/zotero.png";
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
