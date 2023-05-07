@@ -185,10 +185,10 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      name: "Linkedin",
+      designation: "",
+      company: "",
+      image: linkedin,
     },
     {
       testimonial:
