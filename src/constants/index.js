@@ -44,7 +44,16 @@ import {
     brainandb,
     combio,
     eneuro,
-    plosone,    
+    plosone,
+    gscholar, 
+    incia, 
+    linkedin, 
+    neurocampus,  
+    orcid, 
+    pubmed, 
+    researchgate, 
+    twitter,
+    univbdx,
   } from "../assets";
   
   export const navLinks = [
