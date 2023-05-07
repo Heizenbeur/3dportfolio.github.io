@@ -206,15 +206,15 @@ import {
         "Yu TS, Tensaouti Y*, Stephanz EP, Chintamen S, Rafikian EE, Yang M, Kernie SG. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
         tags: [
         {
-          name: "react",
+          name: "apolipoprotein E",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "astrocytes",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "hippocampal neurogenesis",
           color: "pink-text-gradient",
         },
       ],
@@ -227,15 +227,15 @@ import {
         "Tensaouti Y*, Yu TS, Kernie SG. Apolipoprotein E regulates the maturation of injury-induced adult-born hippocampal neurons following traumatic brain injury.",
       tags: [
         {
-          name: "react",
+          name: "apolipoprotein E",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "traumatic brain injury",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "hippocampal neurogenesis",
           color: "pink-text-gradient",
         },
       ],
@@ -248,15 +248,15 @@ import {
         "Tensaouti Y*, Stephanz EP, Yu TS, Kernie SG. ApoE Regulates the Development of Adult Newborn Hippocampal Neurons.",
       tags: [
         {
-          name: "nextjs",
-          color: "blue-text-gradient",
+          name: "apolipoprotein E",
+          color: "hippocampal neuro",
         },
         {
-          name: "supabase",
+          name: "human isoforms",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "hippocampal neurogenesis",
           color: "pink-text-gradient",
         },
       ],
@@ -269,15 +269,15 @@ import {
         "Yu TS, Tensaouti Y*, Bagha ZM, Davidson R, Kim A, Kernie SG. Adult newborn neurons interfere with fear discrimination in a protocol-dependent manner.",
       tags: [
         {
-          name: "react",
+          name: "fear conditioning",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "traumatic brain injury",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "hippocampal neurogenesis",
           color: "pink-text-gradient",
         },
       ],
