@@ -203,8 +203,8 @@ import {
     {
       name: "Communications Biology (2021)",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      tags: [
+        "Yu, TS., <strong style={{color: 'purple'}}>Tensaouti, Y.</a></strong>, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
+        tags: [
         {
           name: "react",
           color: "blue-text-gradient",
@@ -219,7 +219,7 @@ import {
         },
       ],
       image: combio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.nature.com/articles/s42003-021-02841-4",
     },
     {
       name: "Plos One (2020)",
