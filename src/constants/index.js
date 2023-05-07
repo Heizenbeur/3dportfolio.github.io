@@ -76,10 +76,35 @@ import {
   ];
   
   const technologies = [
-     {
+    {
       name: "Word",
       icon: word,
     },
+    {
+      name: "PPT",
+      icon: ppt,
+    },
+    {
+        name: "Excel",
+        icon: excel,
+    },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
     {
       name: "HTML 5",
       icon: html,
