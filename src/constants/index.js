@@ -39,6 +39,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    office, 
+    mbf,
   } from "../assets";
   
   export const navLinks = [
@@ -77,24 +79,12 @@ import {
   
   const technologies = [
     {
-        name: "Word",
-        icon: word,
-    },
-    {
-        name: "PPT",
-        icon: ppt,
-    },
-    {
-        name: "Excel",
-        icon: excel,
+        name: "Office",
+        icon: office,
     },
     {
         name: "Zotero",
         icon: zotero,
-    },
-    {
-        name: "Slack",
-        icon: slack,
     },
     {
         name: "FIJI",
@@ -105,28 +95,8 @@ import {
         icon: cellprofiler,
     },
     {
-        name: "Google research",
-        icon: googleresearch,
-    },
-    {
-        name: "Github",
-        icon: githublogo,
-    },
-    {
-        name: "Anaconda",
-        icon: anaconda,
-    },
-    {
-        name: "Python",
-        icon: python,
-    },
-    {
-        name: "VSC",
-        icon: visualcodestudio,
-    },
-    {
-        name: "Java",
-        icon: javascript,
+        name: "mbf",
+        icon: mbf,
     },
   ];
   
