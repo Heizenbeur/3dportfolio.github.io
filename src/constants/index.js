@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "Behavioralist (rats)",
+      title: "Behavioralist",
       icon: mobile,
     },
     {
