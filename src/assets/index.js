@@ -94,4 +94,6 @@ export {
   visualcodestudio,
   word,
   zotero,
+  office, 
+  mbf,
 };
