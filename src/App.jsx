@@ -21,7 +21,7 @@ const App = () => {
         </div>
         <p className="text-xs">
           <em>
-            This website was developed by <strong style={{color: 'white'}}>Dr. Yacine Tensaouti</strong> (React, Node.js & Three.js frameworks), download code for free on <strong style={{color: 'purple'}}><a href="https://github.com/Heizenbeur/3dportfolio.github.io" target="_blank" rel="noopener noreferrer">Github</a></strong>.
+            This website was developed by <strong style={{color: 'white'}}>Dr. Yacine Tensaouti</strong> (React, Node.js & Three.js frameworks), <strong style={{color: 'purple'}}><a href="https://github.com/Heizenbeur/3dportfolio.github.io" target="_blank" rel="noopener noreferrer">download</a></strong> code for free.
           </em>
         </p>
       </div>
