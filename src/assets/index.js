@@ -121,7 +121,7 @@ export {
   gscholar, 
   incia, 
   linkedin, 
-  neurocampus  
+  neurocampus,  
   orcid, 
   pubmed, 
   researchgate, 
