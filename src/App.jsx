@@ -19,9 +19,11 @@ const App = () => {
           <Contact />
           <StarsCanvas />
         </div>
-        <div>
-          <em>This website was fully developped by Dr. Yacine Tensaouti (React, Nodes.js & Three.js), any unauthorized copying or distribution of this material is strictly prohibited.</em>
-        </div>
+        <p className="text-xs">
+          <em>
+            This website was developed by Dr. Yacine Tensaouti (React, Node.js & Three.js frameworks), download code for free on Github.
+          </em>
+        </p>
       </div>
     </BrowserRouter>
   );
