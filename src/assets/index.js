@@ -49,6 +49,12 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import brainandb from "./brainandb.png";
+import combio from "./combio.png";
+import eneuro from "./eneuro.png";
+import plosone from "./plosone.png";
+
+
 export {
   logo,
   backend,
@@ -96,4 +102,8 @@ export {
   zotero,
   office, 
   mbf,
+  brainandb,
+  combio,
+  eneuro,
+  plosone,
 };
