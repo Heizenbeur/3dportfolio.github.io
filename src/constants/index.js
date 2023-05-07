@@ -249,7 +249,7 @@ import {
       tags: [
         {
           name: "apolipoprotein E",
-          color: "hippocampal neuro",
+          color: "blue-text-gradient",
         },
         {
           name: "human isoforms",
