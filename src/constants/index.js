@@ -41,6 +41,10 @@ import {
     threejs,
     office, 
     mbf,
+    brainandb,
+    combio,
+    eneuro,
+    plosone,    
   } from "../assets";
   
   export const navLinks = [
@@ -197,7 +201,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Communications Biology (2021)",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -214,11 +218,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: combio,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Plos One (2020)",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -235,11 +239,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: plosone,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "eNeuro (2018)",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -256,11 +260,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: eneuro,
       source_code_link: "https://github.com/",
     },
  {
-      name: "Car Rent",
+      name: "Brain and Behavior (2017)",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -277,28 +281,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
- {
-      name: "Car Rent",
-      description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
+      image: brainandb,
       source_code_link: "https://github.com/",
     },
   ];
