@@ -93,20 +93,8 @@ import {
         icon: zotero,
     },
     {
-        name: "Quartzy",
-        icon: quartzy,
-    },
-    {
         name: "Slack",
         icon: slack,
-    },
-    {
-        name: "Discord",
-        icon: discord,
-    },
-    {
-        name: "R",
-        icon: rstats,
     },
     {
         name: "FIJI",
