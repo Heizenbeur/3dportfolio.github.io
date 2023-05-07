@@ -203,7 +203,7 @@ import {
     {
       name: "Communications Biology (2021)",
       description:
-        "Yu, TS., Tensaouti, Y.*, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
+        "Yu TS, Tensaouti Y*, Stephanz EP, Chintamen S, Rafikian EE, Yang M, Kernie SG. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
         tags: [
         {
           name: "react",
@@ -224,7 +224,7 @@ import {
     {
       name: "Plos One (2020)",
       description:
-        "Tensaouti Y*, Yu TS, Kernie SG (2020) Apolipoprotein E regulates the maturation of injury-induced adult-born hippocampal neurons following traumatic brain injury.",
+        "Tensaouti Y*, Yu TS, Kernie SG. Apolipoprotein E regulates the maturation of injury-induced adult-born hippocampal neurons following traumatic brain injury.",
       tags: [
         {
           name: "react",
@@ -266,7 +266,7 @@ import {
  {
       name: "Brain and Behavior (2017)",
       description:
-        "Yu TS, Tensaouti Y*, Stephanz EP, Chintamen S, Rafikian EE, Yang M, Kernie SG. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",
+        "Yu TS, Tensaouti Y*, Bagha ZM, Davidson R, Kim A, Kernie SG. Adult newborn neurons interfere with fear discrimination in a protocol-dependent manner.",
       tags: [
         {
           name: "react",
