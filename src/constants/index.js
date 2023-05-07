@@ -146,7 +146,7 @@ import {
       points: [
         "Fundamental & Clinical.", 
         "5-months internship: Study of injury-induced neurogenesis in the mouse dentate gyrus following cortical impact, Dr Kernie's lab (CUMC, NY, USA).",
-        "1-month internship: Study of the role of the Sp8 transcription factor in postnatal olfactory neurogenesis in mice, Dr Raineateau (SBRI, INSERM U846, France).",
+        "1-month internship: Study of the role of the Sp8 transcription factor in postnatal olfactory neurogenesis in mice, Dr Raineteau (SBRI, INSERM U846, France).",
       ],
     },     
     {
