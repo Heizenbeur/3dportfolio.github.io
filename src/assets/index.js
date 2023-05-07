@@ -8,6 +8,16 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import loupe from "./loupe.png";
 
+import gscholar from "./gscholar.png";
+import incia from "./incia.png";
+import linkedin from "./linkedin.png";
+import neurocampus from "./neurocampus.png";
+import orcid from "./orcid.png";
+import pubmed from "./pubmed.png";
+import researchgate from "./researchgate.png";
+import twitter from "./twitter.png";
+import univbdx from "./univbdx.png"; 
+
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -108,4 +118,13 @@ export {
   eneuro,
   plosone,
   loupe,
+  gscholar, 
+  incia, 
+  linkedin, 
+  neurocampus  
+  orcid, 
+  pubmed, 
+  researchgate, 
+  twitter,
+  univbdx,
 };
