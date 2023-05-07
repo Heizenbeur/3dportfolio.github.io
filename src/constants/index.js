@@ -203,7 +203,7 @@ import {
     {
       name: "Communications Biology (2021)",
       description:
-        "Yu, TS., <strong style={{color: 'purple'}}>Tensaouti, Y.</a></strong>, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
+        "Yu, TS., <strong style={{color: 'purple'}}>Tensaouti, Y.</strong>, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
         tags: [
         {
           name: "react",
