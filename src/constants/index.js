@@ -77,85 +77,84 @@ import {
   
   const technologies = [
     {
-      name: "Word",
-      icon: word,
+        name: "Word",
+        icon: word,
     },
     {
-      name: "PPT",
-      icon: ppt,
+        name: "PPT",
+        icon: ppt,
     },
     {
         name: "Excel",
         icon: excel,
     },
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
     {
-      name: "HTML 5",
-      icon: html,
+        name: "Zotero",
+        icon: zotero,
     },
     {
-      name: "CSS 3",
-      icon: css,
+        name: "Quartzy",
+        icon: quartzy,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+        name: "Slack",
+        icon: slack,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+        name: "Discord",
+        icon: discord,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+        name: "R",
+        icon: rstats,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+        name: "FIJI",
+        icon: fiji,
     },
     {
-      name: "Tailwind CSS",
-      icon: tailwind,
+        name: "Cell Profiler",
+        icon: cellprofiler,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+        name: "Google research",
+        icon: googleresearch,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+        name: "Github",
+        icon: githublogo,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+        name: "Anaconda",
+        icon: anaconda,
     },
     {
-      name: "git",
-      icon: git,
+        name: "Python",
+        icon: python,
     },
     {
-      name: "figma",
-      icon: figma,
+        name: "VSC",
+        icon: visualcodestudio,
     },
     {
-      name: "docker",
-      icon: docker,
+        name: "Java",
+        icon: javascript,
+    },
+    {
+        name: "CSS 3",
+        icon: css,
+    },
+    {
+        name: "Nodes JS",
+        icon: nodejs,
+    },
+    {
+        name: "Reactjs",
+        icon: reactjs,
+    },
+    {
+        name: "Tailwind",
+        icon: tailwind,
     },
   ];
   
