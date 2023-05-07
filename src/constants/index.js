@@ -42,15 +42,15 @@ import {
   
   const services = [
     {
-      title: "Rodent Brain Surgery",
+      title: "Rodent Brain Surgeon",
       icon: web,
     },
     {
-      title: "Behavior (Rats)",
+      title: "Behavioralist (rats)",
       icon: mobile,
     },
     {
-      title: "Histology & Anatomy",
+      title: "Histologist, Anatomist",
       icon: backend,
     },
     {
