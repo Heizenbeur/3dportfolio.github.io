@@ -26,7 +26,7 @@ import cellprofiler from "./tech/cellprofiler.png";
 import discord from "./tech/discord.png";
 import excel from "./tech/excel.png";
 import fiji from "./tech/fiji.png";
-import github from "./tech/github.png";
+import githublogo from "./tech/githublogo.png";
 import googleresearch from "./tech/googleresearch.png";
 import ppt from "./tech/ppt.png";
 import prism from "./tech/prism.png";
