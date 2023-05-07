@@ -134,16 +134,17 @@ import {
       points: [
         "Leading company in the field of genetically modified mouse and rat models.",
         "Support to 6 project leaders in writing technical reports and led a project to optimize an internal bioinformatic tool.",
-        "Collaborating with cross-functional to create high-quality products.",
+        "Collaborating with cross-functional teams to create high-quality products.",
       ],
     }, 
     {
-      title: "MSc – Research in Neurosciences (Fundamental & Clinical)",
+      title: "MSc – Research in Neurosciences",
       company_name: "Claude Bernard University (France)",
       icon: shopify,
       iconBg: "#383E56",
       date: "Sep 2014 - Jul 2016",
       points: [
+        "Fundamental & Clinical.", 
         "5-months internship: Study of injury-induced neurogenesis in the mouse dentate gyrus following cortical impact, Dr Kernie's lab (CUMC, NY, USA).",
         "1-month internship: Study of the role of the Sp8 transcription factor in postnatal olfactory neurogenesis in mice, Dr Raineateau (SBRI, INSERM U846, France).",
       ],
