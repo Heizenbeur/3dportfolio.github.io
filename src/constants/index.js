@@ -128,22 +128,6 @@ import {
         name: "Java",
         icon: javascript,
     },
-    {
-        name: "CSS 3",
-        icon: css,
-    },
-    {
-        name: "Nodes JS",
-        icon: nodejs,
-    },
-    {
-        name: "Reactjs",
-        icon: reactjs,
-    },
-    {
-        name: "Tailwind",
-        icon: tailwind,
-    },
   ];
   
   const experiences = [
