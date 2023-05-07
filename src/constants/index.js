@@ -203,7 +203,7 @@ import {
     {
       name: "Communications Biology (2021)",
       description:
-        "Yu, TS., <strong>Tensaouti, Y.</strong>, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
+        "Yu, TS., Tensaouti, Y.*, Stephanz, E.P. et al. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",     
         tags: [
         {
           name: "react",
@@ -224,7 +224,7 @@ import {
     {
       name: "Plos One (2020)",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Tensaouti Y*, Yu TS, Kernie SG (2020) Apolipoprotein E regulates the maturation of injury-induced adult-born hippocampal neurons following traumatic brain injury.",
       tags: [
         {
           name: "react",
@@ -240,12 +240,12 @@ import {
         },
       ],
       image: plosone,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229240",
     },
     {
       name: "eNeuro (2018)",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Tensaouti Y*, Stephanz EP, Yu TS, Kernie SG. ApoE Regulates the Development of Adult Newborn Hippocampal Neurons.",
       tags: [
         {
           name: "nextjs",
@@ -261,12 +261,12 @@ import {
         },
       ],
       image: eneuro,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.eneuro.org/content/5/4/ENEURO.0155-18.2018",
     },
  {
       name: "Brain and Behavior (2017)",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Yu TS, Tensaouti Y*, Stephanz EP, Chintamen S, Rafikian EE, Yang M, Kernie SG. Astrocytic ApoE underlies maturation of hippocampal neurons and cognitive recovery after traumatic brain injury in mice.",
       tags: [
         {
           name: "react",
@@ -282,7 +282,7 @@ import {
         },
       ],
       image: brainandb,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.796",
     },
   ];
   
