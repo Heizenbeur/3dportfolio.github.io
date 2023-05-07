@@ -116,41 +116,13 @@ import {
   
   const experiences = [
     {
-      title: "PhD candidate in Neurosciences",
-      company_name: "CNRS, University of Bordeaux (France)",
+      title: "BSc in Biology",
+      company_name: "Claude Bernard University (France)",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Jan 2021 - present",
+      date: "Sep 2011 - Jul 2014",
       points: [
-        "Title: Contribution of insular pathways in value- versus cue-guided choice behavior in rats.",
-        "Supervision: Dr Shauna L. Parkes.",
-        "Team: Decision and Adaptation, INCIA, UMR5287.",
-        "Team leader: Dr Mathieu Wolff.",
-        "Professional service: Student represenative to unit and department councils, teaching and mentoring."
-      ],
-    },
-    {
-      title: "Laboratory Manager",
-      company_name: "Columbia University Medical Center (NY, USA)",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Oct 2016 - Feb 2020",
-      points: [
-        "Team: Dr Kernie's lab.",
-        "Differential effects of human ApoE isoforms on traumatic brain injury-induced neurogenesis in the mouse dentate gyrus.",
-        "Large mouse colony management (maintenance, breeding, genotyping).",
-        "Purchasing, health and security and ongoing training of lab members."
-      ],
-    },
-    {
-      title: "MSc – Research in Neurosciences (Fundamental & Clinical)",
-      company_name: "Claude Bernard University (France)",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Sep 2014 - Jul 2016",
-      points: [
-        "Internship: 5 months at Dr Kernie's lab (CUMC, NY, USA).",
-        "Study of injury-induced neurogenesis in the mouse dentate gyrus following cortical impact."
+        "Major in Animal Physiology.",
       ],
     },
     {
@@ -163,6 +135,44 @@ import {
         "Leading company in the field of genetically modified mouse and rat models.",
         "Support to 6 project leaders in writing technical reports and led a project to optimize an internal bioinformatic tool.",
         "Collaborating with cross-functional to create high-quality products.",
+      ],
+    }, 
+    {
+      title: "MSc – Research in Neurosciences (Fundamental & Clinical)",
+      company_name: "Claude Bernard University (France)",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Sep 2014 - Jul 2016",
+      points: [
+        "5-months internship: Study of injury-induced neurogenesis in the mouse dentate gyrus following cortical impact, Dr Kernie's lab (CUMC, NY, USA).",
+        "1-month internship: Study of the role of the Sp8 transcription factor in postnatal olfactory neurogenesis in mice, Dr Raineateau (SBRI, INSERM U846, France).",
+      ],
+    },     
+    {
+      title: "Laboratory Manager",
+      company_name: "Columbia University Medical Center (NY, USA)",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "Oct 2016 - Feb 2020",
+      points: [
+        "Team: Dr Kernie's lab.",
+        "Differential effects of human ApoE isoforms on traumatic brain injury-induced neurogenesis in the mouse dentate gyrus.",
+        "Large mouse colony management (maintenance, breeding, genotyping).",
+        "Purchasing, health and security and ongoing training of lab members."
+      ],
+    },   
+    {
+      title: "PhD candidate in Neurosciences",
+      company_name: "CNRS, University of Bordeaux (France)",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "Jan 2021 - present",
+      points: [
+        "Title: Contribution of insular pathways in value- versus cue-guided choice behavior in rats.",
+        "Supervision: Dr Shauna L. Parkes.",
+        "Team: Decision and Adaptation, INCIA, UMR5287.",
+        "Team leader: Dr Mathieu Wolff.",
+        "Professional service: Student represenative to unit and department councils, teaching and mentoring."
       ],
     },
   ];
