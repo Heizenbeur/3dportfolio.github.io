@@ -52,7 +52,7 @@ const About = () => {
         and <strong style={{color: 'white'}}>optogenetics</strong> to manipulate brain activity in vivo. Additionally, 
         I am proficient in using <strong style={{color: 'white'}}>fiber photometry</strong> to record signals in freely 
         behaving rats and have developed highly complex <strong style={{color: 'white'}}>behavioral paradigms</strong> to 
-        study <strong style={{color: 'white'}}>decision-making</strong> in rats. My research has primarily focused on 
+        study <strong style={{color: 'white'}}>decision-making</strong>. My research has primarily focused on 
         the influence of <strong style={{color: 'white'}}>value</strong> and <strong style={{color: 'white'}}>cues</strong> on action 
         selection when faced with a <strong style={{color: 'white'}}>choice situation</strong>.
       </motion.p>
