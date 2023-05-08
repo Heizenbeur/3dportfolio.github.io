@@ -185,47 +185,47 @@ import {
     {
       name: "Linkedin",
       image: linkedin,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.linkedin.com/in/yacinetensaouti/",
     },
     {
       name: "Twitter",
       image: twitter,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://twitter.com/yacinetensaouti",
     },
     {
       name: "Google scholar",
       image: gscholar,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://scholar.google.com/citations?hl=fr&user=JJRk43sAAAAJ",
     },
     {
       name: "Pubmed",
       image: pubmed,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://pubmed.ncbi.nlm.nih.gov/?term=Tensaouti+Y&cauthor_id=32119690",
     },
     {
       name: "Research Gate",
       image: researchgate,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.researchgate.net/profile/Yacine-Tensaouti",
     },
     {
       name: "Orcid",
       image: orcid,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://orcid.org/0000-0001-6475-3245",
     },
     {
       name: "Université de Bordeaux",
       image: univbdx,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.u-bordeaux.fr/en/research/research-organisation/research-departments/bordeaux-neurocampus",
     },
     {
       name: "Bordeaux Neurocampus",
       image: neurocampus,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.bordeaux-neurocampus.fr/staff/yacine-tensaouti/",
     },
     {
       name: "INCIA",
       image: incia,
-      source_code_link: "https://github.com/",
+      source_code_link: "http://www.incia.u-bordeaux1.fr/spip.php?article757",
     },
   ];
   
