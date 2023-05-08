@@ -183,10 +183,40 @@ import {
   
   const testimonials = [
     {
-      testimonial:
-        "",
       name: "Linkedin",
       image: linkedin,
+    },
+    {
+      name: "Twitter",
+      image: twitter,
+    },
+    {
+      name: "Google scholar",
+      image: gscholar,
+    },
+    {
+      name: "Pubmed",
+      image: pubmed,
+    },
+    {
+      name: "Research Gate",
+      image: researchgate,
+    },
+    {
+      name: "Orcid",
+      image: orcid,
+    },
+    {
+      name: "Université de Bordeaux",
+      image: univbdx,
+    },
+    {
+      name: "Bordeaux Neurocampus",
+      image: neurocampus,
+    },
+    {
+      name: "INCIA",
+      image: incia,
     },
   ];
   
