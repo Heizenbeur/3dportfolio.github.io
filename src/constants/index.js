@@ -122,7 +122,7 @@ import {
       title: "BSc in Biology",
       company_name: "Claude Bernard University (France)",
       icon: shopify,
-      iconBg: "#383E56",
+      iconBg: "#FFFFFF",
       date: "Sep 2011 - Jul 2014",
       points: [
         "Major in Animal Physiology.",
@@ -132,7 +132,7 @@ import {
       title: "Project Leader Assistant",
       company_name: "GenOway",
       icon: meta,
-      iconBg: "#E6DEDD",
+      iconBg: "#FFFFFF",
       date: "Jul 2015 - Dec 2015",
       points: [
         "Leading company in the field of genetically modified mouse and rat models.",
@@ -144,7 +144,7 @@ import {
       title: "MSc – Research in Neurosciences",
       company_name: "Claude Bernard University (France)",
       icon: shopify,
-      iconBg: "#383E56",
+      iconBg: "#FFFFFF",
       date: "Sep 2014 - Jul 2016",
       points: [
         "Fundamental & Clinical.", 
@@ -156,7 +156,7 @@ import {
       title: "Laboratory Manager",
       company_name: "Columbia University Medical Center (NY, USA)",
       icon: tesla,
-      iconBg: "#E6DEDD",
+      iconBg: "#FFFFFF",
       date: "Oct 2016 - Feb 2020",
       points: [
         "Team: Dr Kernie's lab.",
@@ -169,7 +169,7 @@ import {
       title: "PhD candidate in Neurosciences",
       company_name: "CNRS, University of Bordeaux (France)",
       icon: starbucks,
-      iconBg: "#383E56",
+      iconBg: "#FFFFFF",
       date: "Jan 2021 - present",
       points: [
         "Title: Contribution of insular pathways in value- versus cue-guided choice behavior in rats.",
