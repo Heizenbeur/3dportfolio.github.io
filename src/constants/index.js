@@ -185,38 +185,47 @@ import {
     {
       name: "Linkedin",
       image: linkedin,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Twitter",
       image: twitter,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Google scholar",
       image: gscholar,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Pubmed",
       image: pubmed,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Research Gate",
       image: researchgate,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Orcid",
       image: orcid,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Université de Bordeaux",
       image: univbdx,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Bordeaux Neurocampus",
       image: neurocampus,
+      source_code_link: "https://github.com/",
     },
     {
       name: "INCIA",
       image: incia,
+      source_code_link: "https://github.com/",
     },
   ];
   
